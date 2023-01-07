@@ -1,0 +1,5 @@
+pytest
+allure-pytest
+selene>=2.0.b16
+smsactivate
+python-dotenv
